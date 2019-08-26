@@ -5,6 +5,7 @@
 # Create a function that will ask the user for a number. Use the function to get two numbers from the user, then pass the
 # two numbers to a function. Add, subtract, multiple, and divide the numbers.
 
+# !! : "Create a function that will ask the user for a number". This function should only ask for one number then be called twice 
 def askUser():
     userInput1 = int(input("Enter a number"))
     userInput2 = int(input("Enter a number"))
